@@ -1644,7 +1644,7 @@ section {
 
 .contact .info i {
     font-size: 20px;
-    color: #2487ce;
+    color: #124265;
     float: left;
     width: 44px;
     height: 44px;
@@ -1668,7 +1668,7 @@ section {
     padding: 0 0 0 60px;
     margin-bottom: 0;
     font-size: 14px;
-    color: #217bbc;
+    color: #124265;
 }
 
 .contact .info .email,
@@ -1679,7 +1679,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-    background: #2487ce;
+    background: #124265;
     color: #fff;
 }
 
@@ -1996,7 +1996,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #2487ce;
+    color: #124265;
     font-size: 18px;
     line-height: 1;
 }
@@ -2025,6 +2025,10 @@ section {
 
 #footer .footer-newsletter {
     font-size: 15px;
+}
+
+#footer .footer-newsletter a {
+    color: #124265;
 }
 
 #footer .footer-newsletter h4 {
@@ -2075,6 +2079,10 @@ section {
     padding-top: 5px;
     font-size: 13px;
     color: #444444;
+}
+
+#footer .credits a {
+    color: #124265;
 }
 
 #footer .social-links a {
