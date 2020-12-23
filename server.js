@@ -50,6 +50,15 @@ app.get('/email/sent', (req, res) => {
     res.sendFile(path.join(__dirname, 'views', 'emailMessage.html'));
 });
 
+// Imprint page
+app.get('/imprint.html', (req, res) => {
+    res.sendFile(path.join(__dirname, 'views', 'imprint.html'));
+});
+
+// Privacy page
+app.get('/privacy.html', (req, res) => {
+    res.sendFile(path.join(__dirname, 'views', 'privacy.html'));
+});
 
 // Start server
 app.listen(PORT, () => log('Server is starting on PORT, ', 8080));
