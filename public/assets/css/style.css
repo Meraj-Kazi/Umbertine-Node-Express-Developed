@@ -657,7 +657,7 @@ section {
 
 .section-title {
     text-align: center;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
 }
 
 .section-title h2 {
@@ -2143,9 +2143,10 @@ section {
     right: 0;
 }
 
-#custom-tool .container {
+
+/* #custom-tool .container {
     padding-top: 80px;
-}
+} */
 
 #custom-tool h1 {
     margin: 0;
