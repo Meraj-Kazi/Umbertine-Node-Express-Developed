@@ -9,9 +9,9 @@ Technology used - Express + Nodejs + Nodemailer + MailGun
 
 Before running any of the following steps. Make sure you run `npm install` to install any dependencies needed for this project. 
 
-Website ![umbertine](http://umber.merajkazi.xyz)
+Website [umbertine](http://umber.merajkazi.xyz)
 
-### Author website: ![Meraj Kazi](http://merajkazi.xyz)
+### Author website: [Meraj Kazi](http://merajkazi.xyz)
 
 
 
